@@ -35,7 +35,7 @@ Ada pada folder Cypress -> Video
 ```
 https://github.com/mpermanak/SANBER-45-MOBILE_AUTOMATION.git
 ```
-## Link Repository Tugas Pekanan 6 (Cucuumber UI Automation)
+## Link Repository Tugas Pekanan 6 (Cucumber UI Automation)
 ```
 https://github.com/mpermanak/SANBER-45-Tugas-Pekanan-6.git
 ```
