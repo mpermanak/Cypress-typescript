@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1Iv7c8lRrG3pYHzZP3eMo5SSrZzYWm5CF/edit?rt
 ```
 ## Link Repository Github
 ```
-
+https://github.com/mpermanak/Cypress-typescript.git
 ```
 ## Video Recording
 Ada pada folder Cypress -> Video
